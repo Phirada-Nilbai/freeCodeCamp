@@ -14,7 +14,6 @@ This repository contains the code of all my FreeCodeCamp projects.
     * [ ] [Build a Product Landing Page](responsive-web-design/product-landing-page) | [Requirement](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page) | [Demo](https://codepen.io/cyrildewit/full/eYpzXpd) | [Source Code](responsive-web-design/product-landing-page)
     * [ ] [Build a Technical Documentation Page](responsive-web-design/technical-documentation-page) | [Requirements](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page) | [Demo](https://codepen.io/cyrildewit/full/gOapKvb) | [Source Code](responsive-web-design/technical-documentation-page)
     * [ ] [Build a Personal Portfolio Page](responsive-web-design/personal-portfolio-page) | [Requirements](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage) | [Demo](https://codepen.io/cyrildewit/full/rNeOpVq) | [Source Code](responsive-web-design/personal-portfolio-page)
-    * [View certificate]
 2. [JavaScript Algorithms And Data Structures](javascript-algorithms-and-data-structures)
     * [ ] Palindrome Checker | Requirements | Demo | Source Code
     * [ ] Roman Numeral Converter | Requirements | Demo | Source Code
